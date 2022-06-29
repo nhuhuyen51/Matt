@@ -9,10 +9,10 @@ terraform {
   }
 
   cloud {
-    organization = "REPLACE_ME"
+    organization = "matt51"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "matt"
     }
   }
 }
